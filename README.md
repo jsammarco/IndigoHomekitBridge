@@ -1,3 +1,9 @@
+IndigoHomekitBridge
+==========
+
+This projects uses HAP-NodeJS to pass Homekit commands (Christmas Lights) to Indigo Home Automation version 3 with Applescript Commands
+
+
 HAP-NodeJS
 ==========
 
