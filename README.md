@@ -1,7 +1,12 @@
 IndigoHomekitBridge
 ==========
 
-This projects uses HAP-NodeJS to pass Homekit commands (Christmas Lights) to Indigo Home Automation version 3 with Applescript Commands
+This project uses HAP-NodeJS to pass Homekit commands (Christmas Lights) to Indigo Home Automation version 3 with Applescript Commands
+
+I renamed the executable name for IndigoServer to IndigoServer2 in the info.plist file when you right-click on the application in "/Library/Application Support/Perceptive Automation/Indigo 2/IndigoServer" and click on "Show Package Contents" then you will find the Info.plist under Contents.
+I did this to allow me to have a newer version and not have applescript get confused.
+
+[![Video HERE](https://img.youtube.com/vi/iCE_g12VFRM/0.jpg)](https://www.youtube.com/watch?v=iCE_g12VFRM)
 
 
 HAP-NodeJS
